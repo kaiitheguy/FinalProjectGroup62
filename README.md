@@ -8,11 +8,11 @@ Team Alcohol Free(Group62)
 
 ## Team Members 
 
-* Shu Yao Wu(A13579395) 
-* James Beighley(A13103167) 
-* Yikai Chen(A13531003)
-* Falak Hotchandani(A15711717) 
-* Katherine Ngo(A14530341)
+* Shu Yao Wu 
+* James Beighley
+* Yikai Chen
+* Falak Hotchandani
+* Katherine Ngo
 
 ## Data Science Questions & Hypothesis
 
